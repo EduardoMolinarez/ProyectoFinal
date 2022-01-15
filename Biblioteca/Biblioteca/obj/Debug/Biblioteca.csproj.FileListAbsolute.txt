@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\User\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\User\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.BibliotecaForm.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AdministradorForm.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ClienteForm.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultasForm.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AltaForm.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.BajaFrom.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CambiosForm.resources
+C:\Users\User\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RegistroForm.resources
